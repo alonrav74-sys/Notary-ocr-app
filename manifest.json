@@ -1,27 +1,12 @@
 {
-  "name": "נוטריון הוגן אונליין",
-  "short_name": "נוטריון הוגן",
-  "description": "אפליקציית OCR לתרגום נוטריוני - הערכת מחיר מיידית לפי התעריף הרשמי של משרד המשפטים.",
-  "start_url": "index.html",
-  "scope": "./",
+  "background_color": "#ffffff",
+  "description": "אפליקציית OCR לתרגום נוטריוני - הערכת מחיר מיידית",
+  "dir": "ltr",
   "display": "standalone",
-  "orientation": "portrait",
-  "background_color": "#2c3e50",
-  "theme_color": "#2c3e50",
-  "lang": "he",
-  "dir": "rtl",
-  "icons": [
-    {
-      "src": "icons/icon-192.png",
-      "sizes": "192x192",
-      "type": "image/png",
-      "purpose": "any maskable"
-    },
-    {
-      "src": "icons/icon-512.png",
-      "sizes": "512x512",
-      "type": "image/png",
-      "purpose": "any maskable"
-    }
-  ]
+  "name": "נוטריון הוגן",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "נוטריון הוגן",
+  "start_url": "/",
+  "theme_color": "#2c3e50"
 }
